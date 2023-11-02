@@ -1,13 +1,13 @@
-### Powered By @BikashHalder & @AdityaHalder 
+### Powered By @darkdevil898 & @ALEXBADHACKER 
 
-### Join @BikashGadgetsTech For More Update
+### Join @darkdevil9793 For More Update
 
-### Join @AdityaCheats For Hack
+### Join @darkdevil979 For Hack
 
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
+### Join Our Chats @ALEXBADHACKER & @devil898
 
 
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
+### Powered By [@ALEXBADHACKER](https://t.me/darkdevil9793)
 
 
 ### ABOUT THIS BOT
@@ -24,13 +24,13 @@
 [Kaali Linux](https://youtu.be/_nZT5lhcL8U)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[Devil](https://t.me/darkdevil9793)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/darkdevil979)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/darkdevil9793)
 
 ## YouTube 📺
 
@@ -38,7 +38,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/BgtMusic)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
@@ -70,10 +70,10 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Dark Devil](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/darkdevil9793)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [Devil](https://t.me/darkdevil9793)
 
 ## 💕 Special Thanks
 
@@ -85,4 +85,4 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [AlexBadHacker](https://t.me/ALAEXBADHACKER) & [DARK DEVIL(https://t.me/darkdevil898)
