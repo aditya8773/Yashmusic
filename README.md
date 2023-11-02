@@ -1,13 +1,13 @@
-### Powered By @BikashHalder & @AdityaHalder 
+### Powered By @ALEXBADHACKER & @darkdevil898 
 
-### Join @BikashGadgetsTech For More Update
+### Join https://t.me/+BGIiDOFoWIplYTY1 For More Update
 
-### Join @AdityaCheats For Hack
+### Join @darkdevil9793 For Hack
 
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
+### Join Our Chats https://t.me/+BGIiDOFoWIplYTY1
 
 
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
+### Powered By [@darkdevil898](https://t.me/darkdevil9793)
 
 
 ### ABOUT THIS BOT
@@ -24,21 +24,21 @@
 [Kaali Linux](https://youtu.be/_nZT5lhcL8U)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[devil](https://t.me/+BGIiDOFoWIplYTY1)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/+BGIiDOFoWIplYTY1)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/darkdevil9793)
 
 ## YouTube 📺
 
-[YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
+[YouTube Channel](https://youtube.com/@ALEXHUNTERSYT?si=R02GMFo7ZX786AF2)
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/BgtMusic)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/YashMusic)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
@@ -70,14 +70,14 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![@darkdevil898](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/darkdevil9793)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [@darkdevil898](https://t.me/+BGIiDOFoWIplYTY1)
 
 ## 💕 Special Thanks
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
+✅ dark devil Thanks For Fixed All Error Or Lovely Support 💕
 
 ### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
 
@@ -85,4 +85,4 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [darkdevil](https://t.me/darkdevil9793) & [https://t.me/+BGIiDOFoWIplYTY1](https://t.me/+BGIiDOFoWIplYTY1)
